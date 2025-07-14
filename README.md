@@ -1,4 +1,4 @@
-# Swiggy-Data-Analysis# 🍕 Swiggy Data Analysis – SHODWE Pizza Resto
+ 🍕 Swiggy Data Analysis – SHODWE Pizza Resto
 
 ## 📌 Project Overview
 This project analyzes Swiggy's customer, restaurant, and delivery data to extract actionable business insights using SQL. It demonstrates how structured query logic can support decisions in areas like customer targeting, partner performance, and restaurant promotions.
@@ -48,4 +48,4 @@ Summary of findings presented using Canva slides for clear stakeholder communica
 - Business intelligence and insight extraction
 - Data storytelling and report presentation
 
-## 📂 Repository Structure
+
